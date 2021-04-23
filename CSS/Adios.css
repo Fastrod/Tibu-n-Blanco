@@ -1,0 +1,56 @@
+body{
+	background: url(../Img/tiburonblanco15.jpg);
+}
+div#general {
+	margin: auto;
+	margin-top: 20px; 
+	width: 960px; 
+	height: 900px;
+	background: url(../Img/tiburonblanco13.jpg);
+}
+div#lista {
+	float: right; 
+	width: 250px; 
+	height: 900px;
+	background-color: lightgreen;
+}
+div#encabezado {
+	width: 710px; 
+	height: 200px;
+	background: lightblue;
+	text-align: center;
+	font-family: fantasy;
+	color: gray;
+}
+div#cuerpo {
+	margin-top: 10px;
+	width: 640px;
+	height: 640px;
+	background-color: gray;
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+div#pie {
+	width: 960px;
+	height: 50px;
+	background: url(../Img/tiburonblanco14.jpg);
+	color: white;
+	text-align: center;
+	font-family: cursive;
+	font-size: 18px;
+}
+img.z{
+	width: 600px;
+	height:  450px;
+}
+h1{
+	font-size: 75px;
+}
+h3{
+	font-size: 35px;
+	font-family: fantasy;
+	text-align: center;
+	color: gray;
+
+}

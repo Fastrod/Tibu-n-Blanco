@@ -1,0 +1,90 @@
+footer.x{
+	background: orange;
+	font-size: 18px;
+	text-align: left;
+}
+header{
+	background: green;
+	text-align: center;
+	font-family: fantasy;
+	color: white;
+	font-size: 40px;
+}
+header h3{
+	font-size: 25px;
+	text-align: right;
+	font-family: fantasy;
+}
+div{
+	background: lightblue;
+	font-family: cursive;
+	text-align: center;
+}
+div h2{
+	color: black;
+	font-size: 15px;
+}
+div h1{
+	font-size: 25px;
+}
+div h3{
+	font-size: 25px;
+}
+section{
+	text-align: center;
+	font-family: cursive;
+	font-size: 30px;
+}
+section h2{
+	color: white;
+}
+@media only screen and (max-width: 600px) {
+header{
+	background: red;
+	color: white;
+}
+header h3{
+    color: white;
+    text-align: center;
+    }
+div{
+    background: yellow;
+    text-align: left;
+}
+div h2{
+    text-align: left;
+    color: orange;
+    font-family: Arial;
+}
+section h2{
+	color: red;
+	font-size: 35px;
+	background: black;
+	font-family: Arial;
+}
+div{
+	font-size: 10px;
+	background image-rendering: 
+}
+div h1{
+	background: orange;
+	font-family: Arial;
+}
+div h4{
+	font-size: 15px;
+	text-align: center;
+	background: yellow;
+	color: black;
+	font-family: Arial;
+}
+div h3{
+	background: orange;
+	font-family: Arial;
+	color: black;
+}
+footer{
+	font-size: 13px;
+	text-align: center;
+}
+
+}

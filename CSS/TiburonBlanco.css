@@ -1,0 +1,91 @@
+body{
+    background: url("../Img/tiburonblanco19.jpg");
+    color: white;
+    text-align: center;
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+.Izquierda{
+	width: 50%;
+	height: 100vh;
+	text-align: center;
+}
+.Derecha{
+	width: 50%;
+	height: 100vh;
+	text-align: center;
+}
+#pant-div{
+	display: flex;
+}
+div{
+    font-size: 20px;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+}
+section{
+	font-size: 20px;
+}
+p{
+	text-align: center;
+}
+p.x{
+	text-align: center;
+	width: 90%;
+	line-height: 25px;
+}
+img.s{
+	width: 200px;
+	height: 200px;
+} 
+table{
+	font-size: 11pt;
+	background: black;
+}
+th{
+	background: gray;
+}
+footer{
+	font-size: 25px;
+	color: white;
+	font-family: fantasy;
+	background: orange;
+}
+p.k{
+	width: 90%;
+}
+@media only screen and (max-width: 600px){
+	table{
+		font-size: 10px;
+		height: 500px;
+		width: 430px;
+	}
+	div{
+		font-size: 15px;
+	}
+	section{
+		font-size: 15px;
+	}
+	img.z{
+		width: 400px;
+		height:250px;
+	}
+	img.x{
+		width: 400px;
+		height: 250px;
+	}
+	p.w{
+		font-size: 17px;
+		text-align: center;
+	}
+	img.s{
+		width: 60px;
+		height: 60px;
+	}
+}
+
+
+
